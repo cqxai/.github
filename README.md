@@ -1,3 +1,3 @@
-# rixse
+# cqx
 
-You can learn all about rixse at [rixse.dev](https://rixse.dev)
+You can learn all about cqx at [cqx.dev](https://cqx.dev)
